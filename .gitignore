@@ -1,0 +1,4 @@
+# Не пушим в репозиторий
+*.docx
+*.doc
+Telegram Desktop/
